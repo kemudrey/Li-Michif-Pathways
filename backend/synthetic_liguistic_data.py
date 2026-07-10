@@ -1,0 +1,1 @@
+#Strict mock dictionary database
