@@ -1,0 +1,58 @@
+# CULTURAL DATA LICENSE & STEWARDSHIP AGREEMENT
+**Version 1.0**
+
+> ### IMPORTANT NOTICE
+> This repository contains software code and cultural heritage assets under two completely separate licenses. 
+> * The software code is licensed under the Source-Available Software License (see `LICENSE-CODE.md`).
+> * This file (`LICENSE-DATA.md`) strictly governs all linguistic, cultural, historical, educational, and botanical/plant data ("Protected Data") contained within this project.
+
+---
+
+## 1. Scope of Protected Data
+
+This Agreement applies to all data files, structured configurations, and assets that represent the language, traditional knowledge, and cultural heritage of the Métis Nation. This includes, but is not limited to:
+* **Linguistic Data:** All Michif vocabulary databases, English-to-Michif translation maps, audio pronunciation files, spelling databases, and phonetics.
+* **Narrative Content:** Branching dialogue files, quest text, historical storylines, and character scripts.
+* **Traditional Knowledge:** All data structures tracking traditional plant species, foraging mechanics, era-specific historical maps, and cultural descriptions.
+* **Media Assets:** Graphic designs, pixel art, and voice recordings of Elders and language keepers.
+
+---
+
+## 2. Assertion of Indigenous Data Sovereignty (IDS)
+
+This Protected Data is governed by the principles of **Indigenous Data Sovereignty**, including the First Nations principles of **OCAP®** (Ownership, Control, Access, and Possession) and the **Local Contexts Traditional Knowledge (TK) and Biocultural (BC) Protocols**:
+
+1. **Ownership:** The Métis community collectively owns all rights, titles, and interests in the Protected Data as a cultural heritage asset. Individual developer/institution software licenses do not transfer or dilute this ownership.
+2. **Control:** The project's designated cultural custodians (under the guidance of Métis Elders, educators, and language keepers) maintain absolute authority over the representation, interpretation, and collection of this data.
+3. **Access:** Access to this data within the applications is a privilege granted for educational and revitalization purposes. Public exposure of the codebase does not grant rights to download, scrape, extract, or index the Protected Data for external use.
+4. **Possession / Stewardship:** Physical and digital control of the databases remains securely maintained within authorized networks designed by the project administrators.
+
+---
+
+## 3. Strict Restrictions & Prohibited Uses
+
+**NO COMPANION SOFTWARE LICENSE GRANTS THE RIGHT TO USE THE CULTURAL DATA.**
+
+Unless you have obtained a formal, written **Cultural Use Variance and Data Agreement** signed by the project's designated Stewards, you are strictly prohibited from:
+
+* **Scraping & Harvesting:** Extracting vocabulary tables, database schemas (`schema.sql`), dialogue JSONs, or audio recordings for use in other software, apps, or websites.
+* **Machine Learning & AI Training:** Utilizing any portion of the Michif linguistic databases or Elder voice recordings to train Large Language Models (LLMs), text-to-speech models, machine translation engines, or generative AI models.
+* **Commercialization:** Packaging, distributing, or selling any app, system, or dataset that includes this Protected Data, or monetizing derivatives of the language assets.
+* **Unauthorized Porting:** Adapting the linguistic engine or quest files to represent other languages or regional dialects without explicit permission and a collaborative partnership agreement.
+* **De-contextualization:** Displaying audio, translations, or traditional plant lore outside the designated, approved scope of the VitalByte and Métis Language Platform frameworks.
+
+---
+
+## 4. Institutional & Educational Usage
+
+While schools, universities, community networks, and Métis organizations are highly encouraged to integrate this platform into their curriculum, **deployment of the backend database or ingestion of the language datasets into institutional servers requires explicit, written permission.**
+
+To request institutional authorization or to arrange a cultural-use license, please contact the project maintainers directly (see `README.md` for contact details).
+
+---
+
+## 5. Attributions and Labels
+
+This project utilizes Local Contexts Notices and Labels to indicate cultural protocols. Users are required to preserve all Digital TK Labels associated with these database records in any authorized, deployed version of the application.
+
+*For more information on the trademarks and principles referenced in this document, visit the First Nations Information Governance Centre (https://fnigc.ca/ocap-training/) and Local Contexts (https://localcontexts.org/).*
